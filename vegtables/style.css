@@ -1,0 +1,77 @@
+header{
+    position: relative;
+    background-image: url(./img/mainover.jpg);
+    height: 720px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.maindisc{
+    color: white;
+    /* position: relative; */
+}
+.maindisc h1{
+    text-align: center;
+    font-size: 12rem;
+    padding-top: 180px;
+    margin-top: 0%;
+}
+
+.btn{
+    margin-top: 20px;
+    margin-left: 340px;
+    padding: 5px 25px 5px 25px;
+    font-weight: bold;
+}
+
+.btn-full:link,
+.btn-full:visited{
+    background-color: transparent;
+    color: white;
+    border: 2px solid rgb(186, 241, 186);
+    margin-right: 25px;
+    border-radius: 55px;
+}
+
+.menu{
+    text-align: left;
+    padding: 30px 10px 10px 10px;
+    background-color: rgb(214, 213, 213);
+}
+.menu p{
+    background-color: #fff;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 10px;
+    font-size: larger;
+}
+.menu h1{
+    background-color: #fff;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.bg{
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.bt{
+    margin-top: 20px;
+    margin-left: 0;
+    padding: 3px 10px 3px 10px;
+    /* font-weight: bold; */
+}
+.btn-ghost:link,
+.btn-ghost:visited{
+    border: 1px solid #fff;
+    color: white;
+    background-color: rgb(32, 233, 32);
+    border-radius: 55px;
+}
